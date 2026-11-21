@@ -18,8 +18,7 @@ _PSPbeam is an independently maintained continuation and modification of PSPdisp
 
 - **4410 Hz Audio fix**: audio now plays better at the highest rate - still needs polishing
 
-- **PSP button responsiveness improved** - publishing soon
-
+- **PSP button responsiveness improved**
 
 
 
